@@ -24,8 +24,6 @@ The database `md_water_services` consists of the following key tables:
 * **`auditor_report`**: Independent quality checks used for cross-referencing.
 * **`employee`**: Staff details for surveyors and managers.
 
-*(Recommended: Insert a screenshot of your ER Diagram here)*
-
 ---
 
 ## 🛠️ Methodology
