@@ -93,9 +93,9 @@ Developed SQL logic to categorize sources and assign specific engineering soluti
     git clone [https://github.com/yourusername/maji-ndogo-analysis.git](https://github.com/yourusername/maji-ndogo-analysis.git)
     ```
 2.  **Database Setup:**
-    * Import `md_water_services.sql` into your MySQL local instance.
+    * Import the `md_water_services.sql` file into MySQL Workbench to replicate the database environment.
 3.  **Run Analysis:**
-    * Open `Aaaa.ipynb` in Jupyter Notebook.
+    * Open `Maji_Ndogo_Water_Analysis.ipynb` in Jupyter Notebook.
     * Ensure your database connection string (user/password) is configured correctly.
     * Run all cells to generate the analysis and final report.
 
