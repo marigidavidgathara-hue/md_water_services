@@ -100,7 +100,7 @@ Developed SQL logic to categorize sources and assign specific engineering soluti
 
 ## 👤 Author
  David Gathara Marigi 
-* [LinkedIn Profile](www.linkedin.com/in/david-gathara-9370b622a)
+* [LinkedIn Profile](www.linkedin.com/in/david-gathara)
 * [Portfolio/Website](Link)
 
 *Note: This project is a simulation based on a realistic scenario for data analysis training purposes.*
