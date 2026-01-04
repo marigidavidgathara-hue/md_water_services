@@ -3,6 +3,7 @@ Maji Ndogo Water Analysis Project
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-gathara/)
 
 Project Overview
 This project involves a comprehensive audit and analysis of the **Maji Ndogo** national water database. The goal was to solve a national water crisis by analyzing 60,000+ records to optimize infrastructure budgets, identify corruption, and ensure equitable water access.
